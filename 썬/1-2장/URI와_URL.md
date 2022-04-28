@@ -19,9 +19,9 @@ URI와 URL을 혼용해서 사용하는 경우가 있는데, 이를 명확하게
 - URL이란 Uniform Resource Locator로 리소스의 장소를 나타낸다.
 - 흔히 웹 주소라고 부르며 네트워크 상에서 resource가 어디 있는지 알려주기 위한 규약이다.
 
-두 규약을 한 눈에 보면 다음과 같다.
-![img.png](images/UriAndUrl.png)
-두 규약의 차이점은 **URI는 식별하고, URL은 위치를 가르킨다.**
+두 규약을 한 눈에 보면 다음과 같다.  
+![img.png](images/UriAndUrl.png)  
+차이점은 **URI는 식별하고, URL은 위치를 가르킨다.**
 
 ## 실세계의 URI와 URL
 실세계에 빗대어보면 다음과 같다.  
@@ -40,7 +40,7 @@ URI와 URL을 혼용해서 사용하는 경우가 있는데, 이를 명확하게
 > - /user?name=sun&age=10
 > - ...
 
-![img.png](images/NetworkUriAndUrl.png)
+![img.png](images/NetworkUriAndUrl.png)  
 해당 그림을 통해 URI와 URL을 식별할 수 있다.
 > http://opentutorials.org:3000/main  
 > 은 URL이자 URI로 특정 주소를 가리킨다.
