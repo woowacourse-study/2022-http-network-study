@@ -28,6 +28,6 @@
 
 
 ### 인원
-|![](https://github.com/hamcheeseburger.png?size=100)|![](https://github.com/leo0842.png?size=100)|![](https://github.com/syoun602.png?size=100)|![](https://github.com/seong-wooo.png?size=100)|![](https://github.com/EastHShin.png?size=100)|![](https://github.com/Yboyu0u.png?size=100)|![](https://github.com/2yujeong.png?size=100))
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|[코린](https://github.com/hamcheeseburger)|[에덴](https://github.com/leo0842)|[썬](https://github.com/syoun602)|[배카라](https://github.com/seong-wooo)|[이스트](https://github.com/EastHShin)|[잉](https://github.com/Yboyu0u)|[깍두기](https://github.com/2yujeong)
+|![](https://github.com/hamcheeseburger.png?size=100)|![](https://github.com/leo0842.png?size=100)|![](https://github.com/syoun602.png?size=100)|![](https://github.com/seong-wooo.png?size=100)|![](https://github.com/EastHShin.png?size=100)|![](https://github.com/Yboyu0u.png?size=100)|![](https://github.com/2yujeong.png?size=100)|![](https://github.com/OzRagwort.png?size=100)
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|[코린](https://github.com/hamcheeseburger)|[에덴](https://github.com/leo0842)|[썬](https://github.com/syoun602)|[배카라](https://github.com/seong-wooo)|[이스트](https://github.com/EastHShin)|[잉](https://github.com/Yboyu0u)|[깍두기](https://github.com/2yujeong)|[순대국밥](https://github.com/OzRagwort)
