@@ -1,11 +1,11 @@
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7d61453b-def9-433b-bf4d-30738268e352/Untitled.png)
+![image](https://user-images.githubusercontent.com/61769743/166235605-8c7c3430-3d97-4afd-9603-bb6a4d7e32b1.png)
 
 # 4xx 에러
 
 - **클라이언트 원인**으로 발생한 에러
 - 서버에서 에러가 발생한 상황에 대한 설명과 이 에러가 일시적인지 영구적인지에 대한 설명을 entitty를 통해 반환해야 함.
+![image](https://user-images.githubusercontent.com/61769743/166235672-968b978d-ce11-44e4-80be-dd4d9569ed2e.png)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d11a6b78-b818-4524-aa54-6d57c1ef8340/Untitled.png)
 
 ### 400 에러
 
@@ -47,7 +47,8 @@ HttpStatus.NOT_FOUND
 - **서버의 원인**으로 에러가 발생하고 있음을 나타냄
 - 클라이언트의 요청에는 아무런 문제가 없으므로 수정 없이 다시 요청을 시도할 수 있음
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/63237942-33b5-43ac-a74b-176c729a064c/Untitled.png)
+![image](https://user-images.githubusercontent.com/61769743/166235856-d4e22e2f-27c5-474a-978b-d0d8bd802798.png)
+
 
 ### 503 에러
 
