@@ -7,7 +7,12 @@
 - 캐시의 유효 기간이 지난 이후: 재검증
     - 조건부 요청을 통해 캐시가 유효한지 재검증 수행
     - 재검증 결과 캐시가 유효하다면, 서버는 [304 Not Modified} 응답을 보냄
-    
+
+![스크린샷 2022-05-10 01 05 01](https://user-images.githubusercontent.com/61769743/167458582-26102c30-140c-44b1-af92-97b3680bfd48.png)
+<img width="512" alt="스크린샷 2022-05-10 01 26 39" src="https://user-images.githubusercontent.com/61769743/167458596-7469f252-68f7-42b0-99da-9519df4169e1.png">
+<img width="944" alt="스크린샷 2022-05-10 01 27 24" src="https://user-images.githubusercontent.com/61769743/167458608-003c773e-f319-4543-91df-e9d1c8d412a4.png">
+
+
 ### 2. Proxy Caches
 
 - Browser Cashes와 동일한 원리로 동작하며 Client나 Server가 아닌 네트워크 상에서 동작
