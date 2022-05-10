@@ -1,4 +1,4 @@
-### 1. Browser Cashes
+### 1. Browser Cache
 
 - 브라우저 또는 HTTP 요청을 하는 Client Appliction에 의해 내부 디스크에 캐쉬
 - 캐시된 리소스를 공유하지 않는 한 개인에 한정된 캐시
@@ -13,7 +13,7 @@
 <img width="944" alt="스크린샷 2022-05-10 01 27 24" src="https://user-images.githubusercontent.com/61769743/167458608-003c773e-f319-4543-91df-e9d1c8d412a4.png">
 
 
-### 2. Proxy Caches
+### 2. Proxy Cache
 
 - Browser Cashes와 동일한 원리로 동작하며 Client나 Server가 아닌 네트워크 상에서 동작
 - 큰 회사나 IPS의 방화벽에 설치 되며 대기시간 & 트래픽 감소, 접근 정책 & 제한 우회, 사용률 기록등을 수행
@@ -26,7 +26,7 @@
 
 **이러한 클라이언트에서 사용하고 저장하는 캐시를 private캐시라 하며 프록시 캐시를 public이라고 한다.**
 
-### 3. GateWay Caches
+### 3. GateWay Cache
 
 - 서버 앞 단에 설치되어 요청에 대한 캐시 및 효율적인 분배를 통해 가용성, 신뢰성, 성능등을 향상
 - Encryption, SSL acceleration, Load balancing, Server/ cache static content, Compression 등을 수행
