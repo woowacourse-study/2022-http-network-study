@@ -3,7 +3,8 @@
 - 캐싱 동작을 지정하는 HTTP 헤더의 필드
 - 캐싱 동작을 지정하는 명령(필드값)을 디렉티브라고 칭함
 
-- 디렉티브 표
+디렉티브 표
+
 |공통|Request 헤더|Response 헤더|
 |------|---|---|
 |no-cache|max-state|public|
@@ -60,3 +61,5 @@
 - private : 가장 끝의 사용자 브라우저만 캐시를 저장할 수 있음
 - 기존의 max-age 값과 조합하려면 `Cache-Control: public, max-age=86400` 과 같이 콤마로 연결할 수 있음
 
+![image](https://user-images.githubusercontent.com/61769743/168131562-5aaf7367-2e6e-42a2-be31-149798075d5f.png)
+[출처](https://toss.tech/article/smart-web-service-cache)
