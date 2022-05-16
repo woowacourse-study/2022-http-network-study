@@ -16,6 +16,8 @@
 브라우저에 저장되기 때문에 민감한 정보는 저장하면 안된다.
 
 ## Set-Cookie (Response Header)
+![스크린샷 2022-05-17 02 04 04](https://user-images.githubusercontent.com/61769743/168648250-8770cb40-5548-4f5d-8d98-141e6edf9d52.png)
+![스크린샷 2022-05-17 02 04 04 2](https://user-images.githubusercontent.com/61769743/168648736-a83b1155-f808-4985-a677-359fcbb6d7ef.png)
 
 
 - Expires : 브라우저가 쿠키를 송출할 수 있는 유효기한을 지정
@@ -28,10 +30,12 @@
 로그인을 하지 않고 쿠팡에 접속해서 장바구니를 담았을 때, 해당 브라우저를 껐다가 켜도 내가 장바구니에 담았던 물품을 다시 확인할 수 있다. 서버는 비로그인 사용자를 sessionId로 판별한다.
 
 사용자가 해당 세션 id로 페이지 이동을 할 때 마다 sid의 expires가 늘어난다. expires 내에 계속해서 서버에 요청을 보낸다면 오랫동안 세션을 유지할 수 있다는 의미이다.
-
+![스크린샷 2022-05-17 02 07 20](https://user-images.githubusercontent.com/61769743/168648322-a4eeff3e-d06d-4335-ba64-2880f6c73ac7.png)
+![스크린샷 2022-05-17 02 08 53](https://user-images.githubusercontent.com/61769743/168648335-543cdfff-6dea-406b-a088-58168c975971.png)
 
 
 ### 브라우저에서 쿠키 확인
+![스크린샷 2022-05-17 02 11 29](https://user-images.githubusercontent.com/61769743/168648516-227ca1ff-52ee-47f1-93df-c27d15b1b308.png)
 
 
 ### **세션(HTTP Session) 절차**
@@ -43,3 +47,4 @@
 
 ## Cookie (Request Header)
 
+![스크린샷 2022-05-17 02 03 19](https://user-images.githubusercontent.com/61769743/168648558-cfd6632d-a973-41e2-8be4-f65fb487cff1.png)
