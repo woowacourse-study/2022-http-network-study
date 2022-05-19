@@ -27,7 +27,8 @@
 - Private Key로 암호화된 내용은 Public Key로 복호화 할 수 있음
 - 즉, 누가 나에게 암호화된 내용을 보냈는지 검증할 수 있음
 
-![KakaoTalk_Photo_2022-05-19-11-16-18.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a57b4f07-4405-4c0c-abf2-13df394d8d16/KakaoTalk_Photo_2022-05-19-11-16-18.png)
+![KakaoTalk_Photo_2022-05-19-11-16-18](https://user-images.githubusercontent.com/61769743/169246194-bde0466f-e893-4c9b-ac43-e41bf84a2ecc.png)
+
 
 **종류**
 
@@ -48,7 +49,8 @@ HTTPS에서는 **대칭키를 전달할 때만 비대칭키로 암호화하여 �
 
 1. 서버의 공개키 알아내기
     
-![server의 공개키 알아내기.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a934c726-c579-421b-8a0b-e21e22984870/server의_공개키_알아내기.png)
+![server의 공개키 알아내기](https://user-images.githubusercontent.com/61769743/169246231-174bb0fb-12ec-46c3-9f01-bd9d02ac335e.png)
+
     
     - 서버의 공개키를 인증기관에 등록하면 인증기관의 PrivateKey로 암호화된 공개키 증명서를 발급받을 수 있음
     - 발급받은 공개키 증명서를 클라이언트에게 전송
@@ -63,6 +65,7 @@ HTTPS에서는 **대칭키를 전달할 때만 비대칭키로 암호화하여 �
 4. 대칭키로 통신하기
     - 이후의 통신은 대칭키로 암복호화 하여 이루어짐
 
-![1.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/47bf387c-7ac4-4abb-961b-43d25fe36639/1.png)
+![1](https://user-images.githubusercontent.com/61769743/169246267-e67179d4-41df-420e-b513-93fe5d0e70f7.png)
+![2](https://user-images.githubusercontent.com/61769743/169246328-42493f22-e3f5-49fa-b740-a57141039116.png)
 
-![2.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e4ba15cd-4b6a-4051-a4e6-4a95a3a6a613/2.png)
+
